@@ -6,7 +6,7 @@
 
 ## Demo
 ```
-[https://next-store-ff.vercel.app/products]https://next-store-ff.vercel.app/products
+[https://next-store-ff.vercel.app/products](https://next-store-ff.vercel.app/products)
 ```
 
 ## Requirement
